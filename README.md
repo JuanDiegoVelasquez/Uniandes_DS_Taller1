@@ -1,7 +1,7 @@
 # Uniandes_DS_Taller1
 Repositorio publico para entrega del taller 1 de la clase de Data Science
 
-La base original es "milan_listings.csv".
+La base original es "milan_listings.csv". Se puede usar el "data_diccionary.csv" para entender cada campo.
 
 El notebook inicial que se debe ejecutar primero es "EDA inicial y cleaning Milan".
 
